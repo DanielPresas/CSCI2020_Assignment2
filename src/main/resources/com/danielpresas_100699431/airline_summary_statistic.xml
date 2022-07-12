@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<summary>
+  <stat name="avail_seat_km_per_week">
+    <min>259,373,346</min>
+    <max>7,139,291,291</max>
+    <avg>4,096,102.50</avg>
+  </stat>
+  <stat name="incidents_85_99">
+    <min>0</min>
+    <max>76</max>
+    <avg>7.18</avg>
+  </stat>
+  <stat name="fatal_accidents_85_99">
+    <min>0</min>
+    <max>14</max>
+    <avg>2.18</avg>
+  </stat>
+  <stat name="fatalities_85_99">
+    <min>0</min>
+    <max>535</max>
+    <avg>112.41</avg>
+  </stat>
+  <stat name="incidents_00_14">
+    <min>0</min>
+    <max>24</max>
+    <avg>4.13</avg>
+  </stat>
+  <stat name="fatal_accidents_00_14">
+    <min>0</min>
+    <max>3</max>
+    <avg>0.66</avg>
+  </stat>
+  <stat name="fatalities_00_14">
+    <min>0</min>
+    <max>537</max>
+    <avg>55.52</avg>
+  </stat>
+  <stat name="avg_incidents_85_99">
+    <min/>
+    <max/>
+    <avg>7.18</avg>
+  </stat>
+  <stat name="avg_incidents_00_14">
+    <min/>
+    <max/>
+    <avg>4.13</avg>
+  </stat>
+</summary>
